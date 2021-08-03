@@ -35,4 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lfdominguez&show_icons=true&locale=en" alt="lfdominguez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lfdominguez&" alt="lfdominguez" /></p>
-
+<img
+  align="center" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lfdominguez&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
