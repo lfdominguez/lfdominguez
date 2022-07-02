@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Felipe Domínguez Vega</h1>
-<h3 align="center">A passionate OpenSource DevOps, GitOps & System Administrator from Cuba</h3>
+<h3 align="center">A passionate OpenSource DevOps, GitOps & System Administrator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfdominguez&label=Profile%20views&color=0e75b6&style=flat" alt="lfdominguez" /> </p>
 
@@ -16,8 +16,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/lfdominguez](https://github.com/lfdominguez)
 
 - 💬 Ask me about **OpenSource, Linux, SysAdmin, Kubernetes, ...**
-
-- 📫 How to reach me **ldominguezvega@gmail.com**
 
 - ⚡ Fun fact **... . . . ...**
 
